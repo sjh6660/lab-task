@@ -1,9 +1,3 @@
-"""
-CIFAR-10 图像分类（修正版）
-数据集路径: D:/datasets/cifar10 (手动下载，无需联网)
-模型: 简单 CNN，测试准确率约 75%~78%
-注意：Windows 下必须将主程序放在 if __name__ == '__main__': 内，否则多进程会报错。
-"""
 
 import torch
 import torch.nn as nn

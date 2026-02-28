@@ -1,7 +1,3 @@
-"""
-任务四：CIFAR-10 图像分类优化版（完整修正）
-包含：Warmup、Mixup、残差结构、动态pin_memory、归一化
-"""
 
 import torch
 import torch.nn as nn
